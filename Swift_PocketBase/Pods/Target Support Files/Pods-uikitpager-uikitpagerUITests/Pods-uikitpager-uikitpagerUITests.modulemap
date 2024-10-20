@@ -1,0 +1,6 @@
+framework module Pods_uikitpager_uikitpagerUITests {
+  umbrella header "Pods-uikitpager-uikitpagerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
